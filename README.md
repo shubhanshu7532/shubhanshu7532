@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shubhanshu 👋
 
-<!--
-**shubhanshu7532/shubhanshu7532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer** building high-throughput data pipelines and payment systems.
+I like problems where correctness, latency and scale all matter at once.
 
-Here are some ideas to get you started:
+### 🛠️ What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔌 **Smart-grid data platform:** meter-data validation & processing microservices (Kafka, Spark, PostgreSQL, FastAPI) handling large volumes of time-series readings
+- 💸 **Payments:** microservices for fiat & stablecoin flows: payouts, reconciliation, fraud detection, scheduling, on/off-ramp
+- ⚡ **Low latency:** C++ real-time bidding in ad-tech; Go/C++ for smart-meter firmware & over-the-air (FOTA) updates
+- 🛡️ **Infra & compliance:** AWS EKS, centralized logging/SIEM and observability for PCI DSS
+
+### 🧰 Tech stack
+
+**Languages:** Python · Go · Java · C++ · TypeScript/Node.js  
+**Data & messaging:** Kafka · Spark · PostgreSQL · Redis  
+**Backend:** FastAPI · Spring Boot · Express · REST · microservices  
+**Cloud & DevOps:** AWS (EKS, EC2, S3, RDS) · Docker · Kubernetes · CI/CD  
+**Also into:** LLM applications & observability
+
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhanshutripathi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshutripathi/)
